@@ -1,6 +1,6 @@
 Here's a structured `README.md` for your **Pizza Sales Dashboard** repository:  
 
----
+
 
 ## 🍕 Pizza Sales Dashboard  
 
